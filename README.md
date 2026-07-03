@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dikshit13/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0463-island-perimeter](https://github.com/dikshit13/DSA-Leetcode/tree/master/0463-island-perimeter) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dikshit13/DSA-Leetcode/tree/master/0036-valid-sudoku) |
+| [0463-island-perimeter](https://github.com/dikshit13/DSA-Leetcode/tree/master/0463-island-perimeter) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/dikshit13/DSA-Leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/dikshit13/DSA-Leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
