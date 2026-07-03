@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dikshit13/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/dikshit13/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dikshit13/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/dikshit13/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Matrix
 |  |
 | ------- |
