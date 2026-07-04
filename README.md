@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dikshit13/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/dikshit13/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/dikshit13/DSA-Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0283-move-zeroes](https://github.com/dikshit13/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0055-jump-game) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/dikshit13/DSA-Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
