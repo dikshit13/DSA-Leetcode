@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/dikshit13/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/dikshit13/DSA-Leetcode/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0896-monotonic-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0896-monotonic-array) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/dikshit13/DSA-Leetcode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -67,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/dikshit13/DSA-Leetcode/tree/master/0046-permutations) |
+| [0494-target-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
