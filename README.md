@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/dikshit13/DSA-Leetcode/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0896-monotonic-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0896-monotonic-array) |
+| [0941-valid-mountain-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0941-valid-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
