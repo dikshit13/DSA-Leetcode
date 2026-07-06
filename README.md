@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/dikshit13/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/dikshit13/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [0383-ransom-note](https://github.com/dikshit13/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Matrix
 |  |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/dikshit13/DSA-Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/dikshit13/DSA-Leetcode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/dikshit13/DSA-Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
