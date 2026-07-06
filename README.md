@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/dikshit13/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/dikshit13/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/dikshit13/DSA-Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/dikshit13/DSA-Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/dikshit13/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0494-target-sum) |
 ## Stack
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/dikshit13/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/dikshit13/DSA-Leetcode/tree/master/0392-is-subsequence) |
 ## Counting
 |  |
 | ------- |
