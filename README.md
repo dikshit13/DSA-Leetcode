@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/dikshit13/DSA-Leetcode/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0896-monotonic-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0941-valid-mountain-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dikshit13/DSA-Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -137,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
