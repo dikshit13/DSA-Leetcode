@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/dikshit13/DSA-Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dikshit13/DSA-Leetcode/tree/master/0056-merge-intervals) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/dikshit13/DSA-Leetcode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/dikshit13/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/dikshit13/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0420-strong-password-checker](https://github.com/dikshit13/DSA-Leetcode/tree/master/0420-strong-password-checker) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
