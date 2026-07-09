@@ -44,6 +44,6 @@ public:
             }
         }
 
-        return (double)left;
+        return (int)left;
     }
 };
