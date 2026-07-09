@@ -35,6 +35,6 @@ public:
             }
         }
 
-        return right;
+        return left;
     }
 };
