@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0896-monotonic-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0941-valid-mountain-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dikshit13/DSA-Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dikshit13/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/dikshit13/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dikshit13/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
