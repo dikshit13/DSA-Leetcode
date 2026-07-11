@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dikshit13/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/dikshit13/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/dikshit13/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/dikshit13/DSA-Leetcode/tree/master/0041-first-missing-positive) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/dikshit13/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/dikshit13/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/dikshit13/DSA-Leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/dikshit13/DSA-Leetcode/tree/master/0409-longest-palindrome) |
