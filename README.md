@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/dikshit13/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0415-add-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dikshit13/DSA-Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/dikshit13/DSA-Leetcode/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/dikshit13/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/dikshit13/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0415-add-strings) |
 ## Queue
