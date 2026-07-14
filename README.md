@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/dikshit13/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/dikshit13/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/dikshit13/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/dikshit13/DSA-Leetcode/tree/master/0046-permutations) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dikshit13/DSA-Leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/dikshit13/DSA-Leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0494-target-sum) |
