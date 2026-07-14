@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dikshit13/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/dikshit13/DSA-Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/dikshit13/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/dikshit13/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0039-combination-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/dikshit13/DSA-Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/dikshit13/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/dikshit13/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/dikshit13/DSA-Leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/dikshit13/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0389-find-the-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
