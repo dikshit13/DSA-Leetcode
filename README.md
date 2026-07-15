@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/dikshit13/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dikshit13/DSA-Leetcode/tree/master/0046-permutations) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/dikshit13/DSA-Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/dikshit13/DSA-Leetcode/tree/master/0127-word-ladder) |
