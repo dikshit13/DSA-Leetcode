@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/dikshit13/DSA-Leetcode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/dikshit13/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/dikshit13/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/dikshit13/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0016-3sum-closest](https://github.com/dikshit13/DSA-Leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/dikshit13/DSA-Leetcode/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0420-strong-password-checker](https://github.com/dikshit13/DSA-Leetcode/tree/master/0420-strong-password-checker) |
 ## Binary Search
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dikshit13/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -202,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
