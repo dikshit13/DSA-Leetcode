@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1266-minimum-time-visiting-all-points](https://github.com/dikshit13/DSA-Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dikshit13/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dikshit13/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/dikshit13/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/dikshit13/DSA-Leetcode/tree/master/0392-is-subsequence) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/dikshit13/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0415-add-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dikshit13/DSA-Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
 |  |
 | ------- |
@@ -161,12 +164,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/dikshit13/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0389-find-the-difference) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/dikshit13/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0415-add-strings) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -212,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
