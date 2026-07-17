@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/dikshit13/DSA-Leetcode/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0494-target-sum) |
+| [0500-keyboard-row](https://github.com/dikshit13/DSA-Leetcode/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/dikshit13/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0896-monotonic-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/dikshit13/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/dikshit13/DSA-Leetcode/tree/master/0500-keyboard-row) |
 ## Matrix
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/dikshit13/DSA-Leetcode/tree/master/0420-strong-password-checker) |
 | [0434-number-of-segments-in-a-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/dikshit13/DSA-Leetcode/tree/master/0500-keyboard-row) |
 ## Counting
 |  |
 | ------- |
