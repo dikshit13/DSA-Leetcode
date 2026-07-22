@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/dikshit13/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/dikshit13/DSA-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/dikshit13/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/dikshit13/DSA-Leetcode/tree/master/0322-coin-change) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/dikshit13/DSA-Leetcode/tree/master/0065-valid-number) |
+| [0072-edit-distance](https://github.com/dikshit13/DSA-Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/dikshit13/DSA-Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/dikshit13/DSA-Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/dikshit13/DSA-Leetcode/tree/master/0139-word-break) |
