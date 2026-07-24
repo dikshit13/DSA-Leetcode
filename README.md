@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/dikshit13/DSA-Leetcode/tree/master/0420-strong-password-checker) |
 | [0434-number-of-segments-in-a-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0482-license-key-formatting](https://github.com/dikshit13/DSA-Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/dikshit13/DSA-Leetcode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0541-reverse-string-ii) |
 ## Counting
