@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/dikshit13/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/dikshit13/DSA-Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/dikshit13/DSA-Leetcode/tree/master/0139-word-break) |
+| [0264-ugly-number-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/dikshit13/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/dikshit13/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0097-interleaving-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/dikshit13/DSA-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/dikshit13/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/dikshit13/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/dikshit13/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/dikshit13/DSA-Leetcode/tree/master/0089-gray-code) |
+| [0264-ugly-number-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0412-fizz-buzz](https://github.com/dikshit13/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0539-minimum-time-difference) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0264-ugly-number-ii) |
 | [0420-strong-password-checker](https://github.com/dikshit13/DSA-Leetcode/tree/master/0420-strong-password-checker) |
 ## Binary Search
 |  |
