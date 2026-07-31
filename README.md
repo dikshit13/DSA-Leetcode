@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dikshit13/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/dikshit13/DSA-Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/dikshit13/DSA-Leetcode/tree/master/0031-next-permutation) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dikshit13/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0055-jump-game) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dikshit13/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/dikshit13/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dikshit13/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0043-multiply-strings) |
