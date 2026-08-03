@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0941-valid-mountain-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0941-valid-mountain-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dikshit13/DSA-Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dikshit13/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1406-stone-game-iii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dikshit13/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0539-minimum-time-difference) |
 | [0877-stone-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dikshit13/DSA-Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1406-stone-game-iii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dikshit13/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
@@ -283,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/dikshit13/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
