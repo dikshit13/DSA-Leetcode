@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/dikshit13/DSA-Leetcode/tree/master/0420-strong-password-checker) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dikshit13/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/dikshit13/DSA-Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/dikshit13/DSA-Leetcode/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0494-target-sum) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dikshit13/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dikshit13/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0541-reverse-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dikshit13/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting
 |  |
 | ------- |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
