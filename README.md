@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/dikshit13/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1406-stone-game-iii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/dikshit13/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2029-stone-game-ix](https://github.com/dikshit13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dikshit13/DSA-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dikshit13/DSA-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/dikshit13/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/dikshit13/DSA-Leetcode/tree/master/0420-strong-password-checker) |
+| [2029-stone-game-ix](https://github.com/dikshit13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dikshit13/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1266-minimum-time-visiting-all-points](https://github.com/dikshit13/DSA-Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-stone-game-iii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dikshit13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/dikshit13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dikshit13/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dikshit13/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0299-bulls-and-cows](https://github.com/dikshit13/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/dikshit13/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/dikshit13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/dikshit13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/dikshit13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -330,15 +335,18 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1140-stone-game-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/dikshit13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/dikshit13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/dikshit13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/dikshit13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/dikshit13/DSA-Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/dikshit13/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
