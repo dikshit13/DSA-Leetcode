@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/dikshit13/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/dikshit13/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0541-reverse-string-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/dikshit13/DSA-Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dikshit13/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dikshit13/DSA-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/dikshit13/DSA-Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dikshit13/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dikshit13/DSA-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/dikshit13/DSA-Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
