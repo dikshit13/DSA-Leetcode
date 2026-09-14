@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/dikshit13/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0539-minimum-time-difference) |
+| [0836-rectangle-overlap](https://github.com/dikshit13/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dikshit13/DSA-Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/dikshit13/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dikshit13/DSA-Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## String
 |  |
