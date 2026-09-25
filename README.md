@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/dikshit13/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/dikshit13/DSA-Leetcode/tree/master/0500-keyboard-row) |
+| [1096-brace-expansion-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/dikshit13/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dikshit13/DSA-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/dikshit13/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/dikshit13/DSA-Leetcode/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/dikshit13/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/dikshit13/DSA-Leetcode/tree/master/0463-island-perimeter) |
+| [1096-brace-expansion-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/dikshit13/DSA-Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/dikshit13/DSA-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/dikshit13/DSA-Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/dikshit13/DSA-Leetcode/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dikshit13/DSA-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dikshit13/DSA-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -311,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0539-minimum-time-difference) |
+| [1096-brace-expansion-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dikshit13/DSA-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dikshit13/DSA-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
