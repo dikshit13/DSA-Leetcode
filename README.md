@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/dikshit13/DSA-Leetcode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/dikshit13/DSA-Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/dikshit13/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshit13/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/dikshit13/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dikshit13/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/dikshit13/DSA-Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/dikshit13/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshit13/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dikshit13/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/dikshit13/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0541-reverse-string-ii) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dikshit13/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshit13/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/dikshit13/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
