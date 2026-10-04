@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/dikshit13/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1140-stone-game-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/dikshit13/DSA-Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/dikshit13/DSA-Leetcode/tree/master/0420-strong-password-checker) |
+| [0678-valid-parenthesis-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/dikshit13/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dikshit13/DSA-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/1927-sum-game) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0500-keyboard-row](https://github.com/dikshit13/DSA-Leetcode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
