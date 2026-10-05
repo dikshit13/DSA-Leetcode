@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
