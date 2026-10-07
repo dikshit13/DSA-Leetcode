@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/dikshit13/DSA-Leetcode/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/dikshit13/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/dikshit13/DSA-Leetcode/tree/master/0463-island-perimeter) |
 | [1096-brace-expansion-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/dikshit13/DSA-Leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/dikshit13/DSA-Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/dikshit13/DSA-Leetcode/tree/master/0089-gray-code) |
+| [0301-remove-invalid-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/dikshit13/DSA-Leetcode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/dikshit13/DSA-Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/dikshit13/DSA-Leetcode/tree/master/0139-word-break) |
 | [0299-bulls-and-cows](https://github.com/dikshit13/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/dikshit13/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0389-find-the-difference) |
