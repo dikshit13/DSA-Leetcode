@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/dikshit13/DSA-Leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dikshit13/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/dikshit13/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/dikshit13/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0877-stone-game) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dikshit13/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dikshit13/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/dikshit13/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/dikshit13/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/dikshit13/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dikshit13/DSA-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/dikshit13/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
