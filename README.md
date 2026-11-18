@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/dikshit13/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/dikshit13/DSA-Leetcode/tree/master/0089-gray-code) |
 | [0264-ugly-number-ii](https://github.com/dikshit13/DSA-Leetcode/tree/master/0264-ugly-number-ii) |
+| [0326-power-of-three](https://github.com/dikshit13/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/dikshit13/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/dikshit13/DSA-Leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/dikshit13/DSA-Leetcode/tree/master/0486-predict-the-winner) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dikshit13/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/dikshit13/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/dikshit13/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/dikshit13/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dikshit13/DSA-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
